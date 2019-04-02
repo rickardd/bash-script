@@ -1,0 +1,11 @@
+I:jag
+you:du
+he:han
+we:vi
+you (plural):ni
+they:de
+this:den här
+that:den där
+here:här
+there:där
+who:vem
