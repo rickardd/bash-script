@@ -1,0 +1,3 @@
+# bash-script
+
+A set of small experimental bash projects/apps/stuff...
